@@ -1,7 +1,7 @@
 name: quran_ten_surahs
 description: A Flutter app for 10 short Surahs of the Quran.
 publish_to: "none"
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
