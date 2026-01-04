@@ -101,7 +101,7 @@ class CoverPage extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.only(bottom: 20.0),
                   child: Text(
-                    "Developer: Your Name/Studio", // এখানে আপনার নাম দিন
+                    "Developer: Md. Monjurul Haque", // এখানে আপনার নাম দিন
                     style: TextStyle(color: Colors.white70, fontSize: 14),
                   ),
                 ),
